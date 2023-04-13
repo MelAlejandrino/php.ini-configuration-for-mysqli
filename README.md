@@ -1,0 +1,1 @@
+# php.ini configuration for mysqli
